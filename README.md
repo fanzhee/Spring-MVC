@@ -15,21 +15,21 @@
 
 
 运行环境和参数设置
-•eclipse 
+  eclipse 
 
 
-•run configurations下选择Maven Build
+  run configurations下选择Maven Build
 
 
-•run configurations->Main下设置参数：
+  run configurations->Main下设置参数：
 
-  Goals:tomcat:run
+     Goals:tomcat:run
 
-  Base directory:${workspace_loc:/MVCtest3}
+      Base directory:${workspace_loc:/MVCtest3}
 
 
 
-•Running war on： http://localhost:8080/mvc-demo
+  Running war on： http://localhost:8080/mvc-demo
 
 
 
@@ -43,18 +43,18 @@ This is a web application template project using spring. I implemented it on 201
 environment and paraments
 eclipse 
 
-•run configurations->Maven Build
+  run configurations->Maven Build
 
 
-•run configurations->Main：
+  run configurations->Main：
 
-  Goals:tomcat:run
+      Goals:tomcat:run
 
-  Base directory:${workspace_loc:/MVCtest3}
+      Base directory:${workspace_loc:/MVCtest3}
 
 
 
-•click run and check Running war on： http://localhost:8080/mvc-demo
+click run and check Running war on： http://localhost:8080/mvc-demo
 
 
 
@@ -63,24 +63,24 @@ Technology components
 
 This template project uses
 
-•Spring MVC
+Spring MVC
 
-•JPA
+JPA
 
-•Hibernate
+Hibernate
 
-•Spring Data JPA
+Spring Data JPA
 
-•Spring Security
+Spring Security
 
-•Apache Tiles
+Apache Tiles
 
-•SLF4J
+SLF4J
 
-•Logback
+Logback
 
-•Joda-Time
+Joda-Time
 
-•jQuery
+jQuery
 
-•Bootstrap
+Bootstrap
